@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Why the spider has eight legs",
+      "author": "John Doe",
+      "date": 1714751590000,
+      "content": "The spider has eight legs because it is a spider. It is a spider because it has eight legs. If it had seven legs, it wouldn't be a spider. If it had nine legs, it wouldn't be a spider. It has eight legs, so it is a spider."
+    },
+    {
+      "id": "2",
+      "title": "Why the lion is the king of the jungle",
+      "author": "Jane Doe",
+      "date": 1714665190000,
+      "content": "The lion is the king of the jungle because it is the biggest and strongest animal in the jungle. It is the biggest and strongest animal in the jungle because it is the king of the jungle. If it wasn't the biggest and strongest animal in the jungle, it wouldn't be the king of the jungle. It is the biggest and strongest animal in the jungle, so it is the king of the jungle. If it wasn't the king of the jungle, it wouldn't be the biggest and strongest animal in the jungle."
+    },
+    {
+      "id": "3",
+      "title": "Why the elephant has a long nose",
+      "author": "John Smith",
+      "date": 1714578790000,
+      "content": "The elephant has a long nose because it is an elephant. It is an elephant because it has a long nose. If it had a short nose, it wouldn't be an elephant. If it had a medium-length nose, it wouldn't be an elephant. It has a long nose, so it is an elephant."
+    }
+  ]
+}
